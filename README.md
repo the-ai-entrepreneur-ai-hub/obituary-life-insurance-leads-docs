@@ -1,5 +1,7 @@
 # Obituary Life-Insurance Lead Scraper
 
+![Sketch-note formula](covers/sketchnote-formula.png)
+
 Recent US obituaries with surviving family extraction, funeral home details, estate signals, lead score, and insurance pitch angles. Built for life insurance agents, final-expense IMOs, and estate planners. Pay per result.
 
 [![Obituary Lead Scraper on Apify](https://img.shields.io/badge/Apify-Obituary%20Lead%20Scraper-1f8f4d)](https://apify.com/george.the.developer/obituary-life-insurance-leads)
